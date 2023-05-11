@@ -1,1 +1,1 @@
-# COMP2101
+# COMP2101 Admiinistrative Scripting
